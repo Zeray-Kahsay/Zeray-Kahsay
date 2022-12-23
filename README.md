@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zeray-Kahsay
-- 👀 I’m interested in web-applications with languages like .Net core and Javascript, Angular and React. 
-- 🌱 I’m currently working on small projects using .Net core and Angular/React.
+- 👀 I’m interested in web-applications with languages like .Net core ( C# ), Java in back-end and  Javascript, Angular and React (React-redux toolkit) in front-end. 
+- 🌱 I’m currently working on small projects using .Net core ( C#) and Angular/React.
 - 💞️ I’m looking to collaborate with anyone who is interested in web-development and web-applications. 
 - 📫 I can be reached with this email:  zerfine@yahoo.com
 
